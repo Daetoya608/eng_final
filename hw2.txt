@@ -1,0 +1,299 @@
+﻿(eerie music)
+- In the 3D bioprinting rooms,
+we like to keep everything sterile.
+When you're using cells,
+you don't want to contaminate anything.
+So gloves and then your lab coat.
+- And so it's basically you're just printing body parts?
+Is that what's going on?
+- Right.
+(eerie music)
+- You want to do the honors?
+- Sure.
+So I'm about to 3D print a human ear.
+- The Wake Forest Institute for Regenerative Medicine
+is developing methods to manufacture human tissue
+using specialized 3D printers
+to fabricate a range of functioning, viable body parts.
+So here we are 3D printing skin.
+So the aim of this is basically to make printers
+where you could print sheets and sheets of it
+and then basically be able to transplant it
+on a patient who needs it.
+- Wow.
+We have a couple of demos set up here.
+The first one here is an artificial heart valve
+and it's forcing fluid back and forth
+and that is an artificial blood vessel.
+It's actually meant to be a carotid artery like in the neck.
+And so then the idea is you can take out the part
+that isn't working and then put this in.
+- How different is this from like 3D printing a trinket?
+- The exact same concept.
+You take a 3D CAD file
+and then you convert that into your printing code
+and then you can print it.
+The only difference here is that we've got
+all the biomaterials and your cellular components too.
+- And where do the cells come from?
+- Depending on the patient,
+you can take a poster-sized stamp of cells
+and then turn it into all the different cell types
+of the body.
+- And then how do you implant it?
+You just sew it on.
+- Exactly.
+Suture it on and cover it up and you're good to go.
+- Amazing.
+- One of the major challenges in medicine of course
+is not having a sufficient number of tissues and organs
+that you can use to replace inpatients.
+And so the concept here is why not just create them.
+- How long do you think it is
+until you can print the whole body?
+- Well I remember watching the very first Westworld movie.
+You know, it came out in the movie theaters many years ago.
+- Sure.
+- Is that possible in the future?
+You never know.
+Science has few boundaries.
+- In 2009, the patent behind the key method
+of 3D printing expired.
+And as more followed, so did a new revolution
+in desktop 3D printing.
+Printers got smaller and cheaper,
+allowing anyone to print models, parts, and tools on demand.
+And nerdy hobbyists turned their printing passions
+into a multi-billion dollar industry.
+- So we're at the worldwide headquarters of Formlabs,
+one of the biggest 3D printing manufacturers in the world.
+And like any respectable startup,
+they've got a ping pong table.
+And this is Max, he's the founder and CEO.
+- The first 3D printing technologies were invented
+in the early 80s, but it was still really inaccessible
+to most people who could benefit from it
+because the machines were so expensive
+and also really difficult to use.
+And they didn't necessarily see the potential
+for a 3D printer that would be a lot lower cost
+and would be more like, say, an office 2D printer.
+- Oh, here we go. - Yeah.
+- Ooh, it's in the goo.
+- There was a lot of excitement at the beginning
+of this kind of desktop 3D printing wave
+that 3D printers will be in all of our homes.
+But it's proven to be a lot further off
+than everyone hoped for.
+- Cool, so if there was sort of a 3D printing hype cycle,
+now that we're kind of past it,
+what does the future look like?
+- 3D printing is used in pretty much
+every product development process.
+What's coming soon with 3D printing
+is going into production.
+And so it has the potential to take years
+of product development and moving into manufacturing
+and turn that into weeks even.
+- Wow, so that's huge.
+- That's huge.
+- We're in Boston going to a company called Desktop Metal
+that has innovated 3D printing metal for mass production.
+- That's a lot of printers.
+- So yeah, so this is our print farm.
+We are now inside of it.
+And what you see is the printer in action.
+And they're printing parts like you see here on the table.
+And the geometry can be very simple, like a gear.
+- Right.
+- And can get very complicated,
+like this, which is a pneumatic distribution housing.
+- Wow, looks kind of steampunk.
+- In 3D printing, the first 20 years was used
+for prototyping.
+And now we're going into a new phase of 3D printing
+where we go from prototyping into mass production.
+And that has huge implications.
+So whereas before you had a factory
+that make one engine component in the US
+and then another component overseas,
+and then they ship the stuff around,
+that set up the whole trade system
+that we've basically architected the world around.
+Now you can print parts anywhere
+as you need them to produce a product.
+- So we're right at the beginning of--
+- Of a revolution.
+- Yeah, this is a fourth industrial revolution in the making.
+- In addition to fundamentally altering
+worldwide economic supply chains,
+now mass produced 3D printed metal
+might also upend the way parts are designed
+from the ground up.
+- Tools are fairly difficult to use
+to create very, very complex shapes.
+But with additive manufacturing of metal,
+we can create crazy shapes.
+So what we're doing is we're sort of subjecting these parts
+to this washing machine effect
+of dynamic transitional forces.
+So what we have is the ability to very quickly create shapes
+that are very strong and lightweight,
+where basically the cell mass is distributed
+only where it's needed.
+- So like because of machine learning,
+manufactured goods or industrial design
+will likely mimic biological design?
+- Absolutely.
+It's not like you tell a computer,
+make it bio-inspired shape,
+is that you tell a computer,
+give me the most efficient shape,
+and the shape that you're getting looks bio.
+- While desktop metal is spearheading
+this new global industrial revolution,
+researchers at MIT are thinking outside the printer entirely.
+We visited two labs pushing the limits of material science
+and challenging the way we think of materials themselves.
+- Essentially printing is a material science chamber.
+Like it got us more and more focused
+understanding like what could materials do,
+how far can we push our products to behave in new ways.
+This is a cellulose-based material.
+You'll see that it'll morph, you know,
+just with the moisture of my skin.
+So same thing, but it only transforms by sunlight.
+You can apply it to windows,
+like glass facades or skylights.
+The last category of research that we study is self-assembly.
+They'll come together slowly over time.
+They'll make these kind of cubic lattice structures.
+What we're interested in in this scenario is like,
+what's the far futures of fabrication?
+Like can we give more and more agency
+where the materials can make decisions,
+learn, adapt, perform in ways we've never even imagined?
+- Whether aided by self-assembly or artificial intelligence,
+turning digital processes into tangible objects
+is a key factor in how we envision the future of fabrication.
+How would you characterize the work that you do
+at the Center for Bits and Atoms?
+- We try to understand how digital things
+become physical things and physical things
+become digital things.
+Now interestingly, the founders of computer science,
+von Neumann and Turing, the last thing in their life
+they studied is exactly this question
+about how computation becomes physical.
+How to design a machine that communicates
+a computation for its own construction.
+The core research project here is now to actually make that.
+You can think of it as the Star Trek replicator
+'cause that's really what this is.
+- This is the future that you're envisioning,
+is that what you're talking about?
+- Oh, it's the future that's on the table in front of us.
+- Oh, hello.
+- So these are what we call relative robots
+and relative robots are designed to operate specifically
+within this lattice environment.
+But what we're working on now is we have robots
+that can crawl on the structure.
+The next step is to give bolting end effectors to them
+so that they can build the structure
+and have an army of these things
+building a big structure in space.
+- I see what you're saying.
+- When you have armies of these robots
+building high performance structures for you,
+possibilities are going to be endless.
+It's going to help us get to Mars,
+it's going to help us get to other galaxies,
+it's going to help us explore the universe.
+- I'm in.
+- It might sound far-fetched,
+but all the technologies we've seen are converging
+in pursuit of a civilization on Mars.
+And NASA's manufacturing wing is revolutionizing
+how we'll use 3D printing to get there.
+- So this is the laboratory training complex.
+It's pretty much a one-to-one mock-up of the US lab
+and the Space Station right now.
+This is actually our backup for the first 3D printer
+that we ever launched in space.
+The Space Station is an amazing vehicle.
+We're still somewhat Earth dependent
+with our Space Station model.
+For Mars, we want to be Earth independent.
+Space does really drive home how important it is to conserve.
+What are we really going to need for in-space manufacturing
+to make these parts?
+What you really have to do is have sustainability.
+This is the refabricator.
+So it's the first ever integrated 3D printer
+and recycler all in one.
+We want to be able to, in one machine, 3D print the part,
+and then when you're done with it, you just feed it back in
+and it creates new filament and you can make a whole new part.
+What excites me the most is that closed-loop life cycle.
+It may seem like a long time before we're going to Mars.
+It's really not, and we have to work on these technologies
+today to be ready.
+- Is a 3D printer going to help us get to Mars?
+- Absolutely, 1,000%.
+- Back on Earth, a startup in Los Angeles is reimagining
+how we could rapidly automate the production of orbital rockets.
+So that's a 3D printer.
+- Yes, this is Stargate, which we developed and built ourselves.
+And it's the largest metal 3D printer in the world.
+- Why did you call it Stargate?
+- There's a video game called Starcraft.
+And Stargate is what you build to warp in spaceships.
+And so we named it after that because we're warping in spaceships.
+- This thing is massive.
+- Fundamentally, what we're doing is feeding in aluminum wire
+and then melting it with a very high-power 11 kilolatt laser.
+- So it's like a big soldering arm.
+- With a laser, yeah, with a laser.
+This is the first large part that we made,
+which was a fuel tank.
+Normally, getting a tank of this size in aerospace or rocket
+quality would take you well over 12 months.
+- How long did it take you to make this?
+- It's like seven days of print time, actually.
+- Seven days?
+- Now that it's developed, yeah, seven days.
+- Yeah.
+- If you think about 10 years from now,
+if your company starts making more and more rockets,
+what does that mean?
+- Well, our long-term mission was we
+want to be the first company to 3D print a rocket on Mars.
+- So you're 3D printing rockets to send a 3D printer to Mars
+to 3D print more rockets?
+- To come back to Earth, yeah.
+With limited time to do something in your life,
+why not just do something very ambitious?
+The idea is it could inspire other people
+to go after their dreams, much like I was inspired--
+- By Starcraft.
+- By Starcraft, yeah, yeah, by Starcraft.
+- Since the beginning of time, the act
+of making something using tools is one of the most defining
+traits of humans.
+- When people look back on the Fourth Industrial Revolution,
+what was the enabling technology?
+It's going to be manufacturing.
+And it's going to be manufacturing with total freedom.
+- You know it's interesting, right?
+Because science fiction really does predict, many times,
+real science.
+In a way, that's what you're seeing right now,
+coming full circle.
+Science fiction becoming science fact.
+[MUSIC PLAYING]
+[MUSIC PLAYING]
+[MUSIC PLAYING]
+[MUSIC PLAYING]
+[MUSIC PLAYING]
+[MUSIC PLAYING]

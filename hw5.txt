@@ -1,0 +1,30 @@
+﻿Obviously navigation is the primary application of most GPS devices.
+Sure.
+Then you've got associated applications, uses that are related to navigating, such
+as tracking systems you can use for monitoring delivery vehicles and finding stolen cars,
+that kind of thing.
+And then there are more creative features.
+A good example would be on a boat GPS.
+You get drift alarms.
+So if the anchor starts to drag and the boat starts moving, there's a setting on the GPS
+that allows it to detect the movement and an alarm sounds to warn you and prevents the
+boat from drifting unnoticed.
+I see.
+Or another example on boat systems is man overboard buttons.
+So if you're sailing along and someone falls into the sea, you hit a button which logs
+the position and ensures that you don't lose track of where you were, which then enables
+you to turn around and come back to the same point and find the person.
+Right.
+So these are the kinds of applications we want to develop, more specialized and more
+creative.
+So effectively you're not talking about technical innovations.
+What you're really looking for is innovative ways of actually using the technology.
+Precisely.
+Because in these days, from the end user's point of view, accuracy is no longer the main
+selling point.
+Most devices are accurate enough.
+The key is to make them more useful.
+So in terms of development, that's the kind of innovations that we want to develop.
+[END]
+[END]
+[END]
