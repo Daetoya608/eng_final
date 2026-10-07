@@ -1,0 +1,43 @@
+﻿Meet Adam, an aspiring entrepreneur.
+He is interested in hosting an online store for home decor products like bases, curtains, artwork, and home furnishings.
+He requires a software application that would allow the customers to browse the available products at their fingertips and buy them online.
+Adam, eager to jump into his new business, wanted to understand how this software development process works.
+To start with his business idea, Adam meets his cousin Mark, who is a software developer and a good one at it.
+He pitches his idea and asks his cousin to help him design an online business application.
+Mark explains to Adam the way of designing the best online shopping application.
+We need to understand the working of the software development lifecycle, also known as the SDLC.
+It involves distinctive phases to initiate the software production based on the client requirements.
+Further, Mark briefs Adam about the six crucial phases of SDLC in designing any software application.
+Planning requirements phase, requirement analysis phase, designing phase, implementation phase, testing phase, deployment and maintenance phase.
+The development team will commence production post agreeing on the terms and conditions discussed between the client and the development team regarding all the proceedings and requirements.
+Initiating the production with the planning requirements phase, where the client and the development team will discuss the basic requirements for the software like
+the purpose of the application, the details about the end user of the product, key elements like format and attributes of the application for designing,
+and the overall user interfaces design of the software.
+The development moves on to the second stage, the requirement analysis phase, which includes the detailed information about each element to design the software as discussed,
+validating the installation of elements in the application according to the client's requirements, calibrating the security protocols and performing risk analysis for the software application.
+All the discussed details are then to be filed in the software requirements specification document, also known as the SRS document.
+After completing the second phase, third stage of software development, the design phase, the software designers will devise the system design following the SRS document.
+The system design defines the overall architecture of the software and checks its feasibility with the client's requirements.
+All the details of the design phase are added to the design document specification, also known as the DDS document, and shared with the analysts and stakeholders for review.
+Next, the development moves on to the fourth stage, the coding or implementation phase.
+In the coding phase, the developers start writing the code using the languages they choose for the software development.
+The coding stage is also one of the most important phases as it encapsulates the implementation of the software product.
+The developers use predefined guidelines and development tools like compilers and debuggers to implement the code.
+The next phase of the production is where we begin with the fifth stage of software development, the testing phase.
+The developed software is now deployed in multiple test environments to check the functioning of all the attributes in the software architecture.
+After the test cases are completed, the quality assurance and the testing team may find errors or bugs in the software, which will be forwarded to the developer team for debugging.
+This testing and debugging process continues until the software is stable and works per the required specifications.
+As for the last stage in the SDLC lifecycle, the deployment and maintenance phase is initiated.
+With the testing phase completed, the software application is ready for deployment and consumer use.
+In this phase, the development team will set up links for the application and make it accessible to the users.
+After the deployment is completed and users begin using the application, they may encounter an error or a bug in the application, which is to be solved from time to time.
+Maintenance also includes releasing application updates and enhancements for the software for better performance and user experience.
+Adam, at this point, was surprised by all the effort and steps taken by the development team to design a software application and the key phases involved in SDLC.
+And on that note, here's a question for you all.
+What does the design document specification document include? Software code, details on defects and bugs, software architecture details, software requirements?
+Give it a thought and leave your answers in the comments section below.
+Three lucky winners will receive Amazon gift vouchers.
+With Mark's explanation of the SDLC lifecycle, Adam understood how software is developed.
+Now he can actively give feedback to the development team and design the best software application for his online store and maybe expand to other businesses as well.
+We hope you found this informative and helpful. If you've enjoyed this video, a thumbs up would really be appreciated.
+Don't forget to subscribe to the Simply Learn channel.

@@ -1,0 +1,171 @@
+﻿Let's talk about how human beings are going to return to the moon in this decade.
+The Artemis program is spearheaded almost entirely by NASA with a few partner space
+agencies and private companies helping out along the way, chief among them all being
+SpaceX who are tasked with delivering the lunar starship vehicle that will actually
+allow astronauts to touch down on the moon's surface for the first time in over 50 years.
+As with all things in the spaceflight industry, the Artemis program is in a constant state
+of flux.
+Timelines and flight plans are being revised and rewritten as different variables come
+into play.
+It can be a bit difficult to keep track of, so today we are focusing in on how SpaceX
+and NASA are going to return a human presence to the moon.
+Even though SpaceX is essentially just functioning as a NASA subcontractor in the grand scheme
+of the Artemis program, they are also responsible for delivering the biggest, most powerful,
+and arguably most important part of the entire moon landing mission, the lunar starship.
+The human landing system is a giant missing piece in the NASA equation.
+They have the SLS launcher to provide the muscle to lunar orbit, and they have the Orion
+spacecraft that can support the crew of four on a trip around the moon and bring them back
+home again safely.
+But they don't have any vehicle in their lineup that can ferry the crew down from
+Orion to the surface and send them back up again.
+So they outsource that job to the private sector.
+Back in the olden days of the Apollo program, NASA was able to fit a small lunar lander
+into the same rocket that launched their command module.
+The landing craft was stashed away in the cargo fairing of the Saturn V just below the
+service module.
+Once the upper stage of the rocket was coasting in orbit, the service module and capsule would
+separate together and fly out a short distance.
+Then come around and return to dock the nose of the command module into the lunar module.
+Then once they were connected, the service module thrusters would extract the lander
+from the upper stage of the rocket and they would all fly to the moon together as one
+unit.
+Also, this was the 1960s, so that whole maneuver had to be performed manually by a pilot.
+No automation available.
+Logistically, that whole system just doesn't work for the modern Artemis program.
+For one, the SLS doesn't offer the same lift capability as the old Saturn V. The Apollo
+era rocket could deliver 43 metric tons to the moon, while SLS maxes out at 27 tons,
+which is enough to send the Orion capsule and service module, but not much more.
+So SLS has more thrust at liftoff than Saturn V, but a lower weight capacity.
+You might be wondering, what's the deal with that?
+Put simply, rocket equations are a nightmare.
+We're going to come back to this in a minute, so just keep that in mind.
+But even if there was more power available, NASA doesn't want to just get by anymore
+with a flimsy little stowaway moon lander.
+The whole point of Artemis is to establish a strong and permanent human presence on the
+moon.
+To do that, we need the sturdiest landing vehicle possible, one that can deliver heavy
+infrastructure while also supporting a crew for their week-long excursions to the lunar
+surface.
+This is where the Artemis program becomes a tale of two gigantic rockets.
+SpaceX was awarded the first human landing system contract by NASA because their vehicle
+was by far the biggest and most powerful option.
+It may not have been the most practical, but at the same time, SpaceX had already been
+making good progress on launch hardware like the Raptor engine and had a very solid track
+record of success with Falcon 9 and Falcon Heavy.
+So NASA took Elon Musk at his word that his people would get it figured out by 2025, and
+they've been doing a pretty good job at that so far.
+Starship flew for the first time in April 2023, and then it exploded, which was not
+ideal, but that's not the end of the world either.
+SpaceX can chalk that up as a learning experience and will make an even better attempt sometime
+later this summer, maybe as early as June.
+The lunar starship that is going to fly to the moon will be pretty similar to the designs
+that we've seen so far being tested at Boca Chica, but with a few key differences.
+The most significant being that the lunar starship will never re-enter Earth's atmosphere,
+so it won't require the black heat shield or the big arrow flaps at the nose and tail
+of the upper stage.
+Those won't serve any function on the moon.
+After shedding that excess weight, Starship will need a bunch of upgrades to function as
+a lunar lander, chief among those being a new set of landing legs.
+There won't be any chopstick-armed mechazilla towers waiting on the moon.
+The spindly legs that we saw on the earlier Starship prototypes won't do either.
+The lunar starship needs a wide, stable footprint to land on, something more similar to a Falcon
+9 booster.
+And the ship will also require landing thrusters as well.
+We've seen these in a few renderings mounted on the side of the vehicle.
+These are going to be necessary to steer the ship on its descent to the lunar surface.
+Ships designed to land on Earth and Mars use arrow flaps to steer, but there's no air
+on the moon, so that doesn't work.
+The moon doesn't have very much gravity either, so it's also very likely that the Raptor
+engines are just too powerful for landing on the moon or even launching from the surface.
+Not unless we want to add another crater to the moon's complexion.
+SpaceX will also need to devise an elevator system for their lunar starship.
+Since the lower two-thirds of the 50-meter tall ship are taken up by fuel tanks, the
+crew are going to need some help to travel the 30-odd meters that separate them from
+the ground.
+This is also going to be critical for deploying payloads to the lunar surface.
+Luckily, the gravity on the moon is one-sixth of the Earth, so the lift doesn't have to
+be particularly strong, just reliable.
+Above the cargo hold will need to be a crew quarters.
+That should be no problem considering the gigantic 9-meter wide empty space left at
+the top of the ship.
+For just two people, it's going to be plenty spacious for a week-long stay on the moon.
+All that SpaceX really needs to do is furnish and pressurize a few levels within the upper
+fairing.
+They have a well-proven life support system from the Crew Dragon capsule that just needs
+to be scaled up a bit for these relatively short duration moon landings.
+Figuring out a Mars life support system for starship is going to be the hard part.
+And then lastly, they just need a small docking port up in the tip of the nose comb, something
+that SpaceX can also just lift from the Dragon capsule.
+This is how the Orion crew will link up with the starship and transfer between vehicles.
+All of that stuff we just talked about is going to be a ton of work for SpaceX to accomplish
+over the next two years, but there is still one more significant hurdle to overcome.
+Remember, we were talking earlier about the rocket equation.
+There is more to putting stuff into space than just raw power alone.
+The Starship Super Heavy Booster offers up to twice the thrust of the old Saturn V, and
+it can deliver twice the payload to the moon, 100 metric tons.
+And that payload also comes wrapped up inside a gigantic 9-meter-wide by 50-meter-tall stainless
+steel spaceship.
+But there is one major caveat here.
+On its own, using only the fuel that it launches with, starship cannot go beyond low Earth orbit.
+By the time starship gets just a couple hundred miles above the Earth's surface, it runs
+out of gas.
+So in order to go any higher, like say to the moon, starship needs to refuel.
+Specifically, it needs a lot more of the cryogenic liquid oxygen and a bit more liquid methane.
+So before lunar starship even becomes a legit possibility, SpaceX actually needs to first
+perfect the tanker starship.
+The tanker variant is going to be a totally stripped down upper stage vehicle, no wings,
+no heat shield, no legs, no cargo fairing, just fuel tanks from top to bottom.
+But even with the extra large tanks, the ship will need to burn most of its own fuel just
+to reach orbit.
+That means that a reusable filler ship will have to go up and dock with the tanker to
+add more oxygen and methane to the reservoir.
+But again, even carrying nothing but fuel, the ship still has to burn most of it just
+to reach orbit.
+So it's going to require multiple docking maneuvers just to fill one tanker ship with
+enough propellant to then refill the lunar starship with enough to get it to the moon.
+That's going to get really expensive really fast unless SpaceX can master the fully reusable
+upper stage ship.
+Elon Musk has said it can be as little as four tanker trips.
+Others have claimed as many as 16 launches will be required to fill one lunar starship.
+And before the lunar starship can be verified for human spaceflight, SpaceX will need to
+perform one uncrewed demonstration landing on the moon prior to Artemis 3.
+This puts a lot of pressure on SpaceX to deliver not just one functional starship that can
+make it into orbit and come back down again in one piece, but they have to make a lot
+of them and they don't have a whole lot of time left to do it.
+Meanwhile, over at NASA, they have already flown one uncrewed Artemis mission with the
+SLS and Orion to verify the flight hardware.
+And thanks to the overwhelming success in 2022, NASA is clear for the first crewed Artemis
+launch in 2024 that will feature a round trip with four astronauts in the Orion spacecraft.
+They'll circle the moon and then return home for a splashdown.
+Fuel the content you love with the Tesla Space and Space Race Store.
+The store will be live on Sunday, May 28th, but here's how you can get exclusive early
+access and discount codes.
+All you've got to do is visit shop.theteslaspace.com or click the link in the description and sign
+up with your email.
+On Saturday, May 27th, you'll receive an email with your one time discount code and
+a password to access the site before everyone else.
+So don't miss out.
+Head over to shop.theteslaspace.com now to reserve your spot.
+The SLS may have had its own share of difficulties in the development stage, and it's pretty
+easy to argue that the rocket is way too expensive at around $4 billion per launch and fragile
+and cumbersome and wasteful, but now that the design has been proven, NASA already has
+flight hardware ready to go for Artemis 2 and Artemis 3.
+The core fuel tanks are already under construction, while the main engines and side boosters are
+mostly just old space shuttle leftovers that are already good to go.
+So while it is really fun and exciting to watch Starship test flights and explosions,
+we're also literally looking at the future of human exploration into outer space hanging
+in the balance, and that adds a lot of extra weight to everything that is unfolding right
+now with SpaceX at Boca Chica.
+These are exciting times.
+If you're interested in following along more closely with new developments in the space
+flight industry, you should hop over and subscribe to our second channel, The Space Race.
+We just cracked 100,000 subscribers and we are working on some really interesting new
+content for that channel that we are really proud of.
+So check it out, link down below in the description.
+Don't forget to give this video a thumbs up today if you liked it, that is so important
+for getting our content out to more people.
+If you enjoy the content, then you'd probably also enjoy our weekly newsletter, so sign
+up with the link down below at theteslaspace.com.
+A huge thank you to all of our Patreon supporters who are listed on the screen now.
+You help us make the best content we can and we really appreciate it.
+Thanks for watching and we'll see you in the next one.
